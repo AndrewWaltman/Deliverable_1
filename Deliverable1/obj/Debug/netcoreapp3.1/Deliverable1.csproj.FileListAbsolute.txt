@@ -1,0 +1,22 @@
+C:\Users\madis\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.exe
+C:\Users\madis\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.deps.json
+C:\Users\madis\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.runtimeconfig.json
+C:\Users\madis\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.runtimeconfig.dev.json
+C:\Users\madis\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.dll
+C:\Users\madis\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.pdb
+C:\Users\madis\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.csprojAssemblyReference.cache
+C:\Users\madis\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.AssemblyInfoInputs.cache
+C:\Users\madis\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.AssemblyInfo.cs
+C:\Users\madis\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.dll
+C:\Users\madis\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.pdb
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.csprojAssemblyReference.cache
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.AssemblyInfoInputs.cache
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.AssemblyInfo.cs
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.dll
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.pdb
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.exe
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.deps.json
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.runtimeconfig.json
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.runtimeconfig.dev.json
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.dll
+C:\Users\madis\Desktop\Stuff\Coding\Unit 1\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.pdb
